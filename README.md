@@ -13,7 +13,6 @@
 
 ### **Freelance Software Developer @ [CodeGarden](https://www.codegarden.co.uk/)**, *9/20 – 8/21*
 *worked with a team of coders and directly with clients to design and develop commercial audio plugins*
-- TBA `C++` `JUCE` `CMake` `DSP` `FFT`
 - [Entonal Studio: a microtonal scale editor and retuner](https://entonal.studio) `C++` `JUCE` `MIDI` `SQLite` `Catch2` `CMake`
 
 ### **Open-Source Software Developer**, *9/19 – 9/20*
