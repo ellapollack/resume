@@ -13,7 +13,7 @@
 
 ### **Software Developer @ [Node Audio](https://www.nodeaudio.dev/)**, *9/20 – 8/21*
 *worked with a team of coders and directly with clients to design and develop commercial audio plugins*
-- [Entonal Studio: a microtonal scale editor and retuner](https://entonal.studio) `C++` `JUCE` `MIDI` `SQLite` `Catch2` `CMake`
+- [Entonal Studio: a microtonal musical scale editor and retuner](https://entonal.studio) `C++` `JUCE` `MIDI` `SQLite` `Catch2` `CMake`
 
 ### **Open-Source Software Developer**, *9/19 – 9/20*
 - [juce-plugin-ci: Continuous Integration for JUCE audio plugins with Github Actions](https://github.com/maxellp/juce-plugin-ci) `CMake` `GitHub Actions`
