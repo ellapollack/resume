@@ -9,6 +9,7 @@
 
 ### **Teacher @ [Oakland Technical High School](https://oaklandtech.com)**, *8/21 – Now*
 *Physics, AP Physics, Geometry, AP Statistcs, Algebra 2, AP Computer Science Principles, Computer Science Capstone*
+- Co-Advisor to the Queer Student Alliance
 
 ### **Freelance Software Developer @ [CodeGarden](https://www.codegarden.co.uk/)**, *9/20 – 8/21*
 *worked with a team of coders and directly with clients to design and develop commercial audio plugins*
